@@ -1,4 +1,4 @@
 # MeuAmigoSecreto
 
-Simples gerenciador de amigo secreto
+Simples gerenciador de amigo secreto.
 
