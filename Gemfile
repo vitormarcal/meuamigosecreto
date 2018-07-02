@@ -35,6 +35,7 @@ gem 'jbuilder', '~> 2.5'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
+
 gem 'devise'
 gem 'materialize-sass'
 gem 'material_icons'
@@ -42,7 +43,7 @@ gem 'redis'
 gem 'sidekiq'
 
 group :test do
-  gem "factory_bot_rails"
+  gem "factory_girl_rails"
   gem "ffaker"
 end
 
